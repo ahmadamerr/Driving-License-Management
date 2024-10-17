@@ -1,0 +1,5 @@
+git init
+git add (project name)
+git commit -m 'Project description'
+git remote add origin 'Project Link'
+git push -u 'Project Link'
