@@ -1,2 +1,2 @@
 # Driving-License-Management
-Tic Tac Toe game using windows form application in C#
+Driving License Management App Using C# Windows Form Application With 3 Tire Architecture
