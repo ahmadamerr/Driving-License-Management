@@ -1,2 +1,2 @@
 # Driving-License-Management
-Driving License Management App Using C# Windows Form Application With 3 Tire Architecture
+A C# WinForms application designed to manage driving licenses, including license issuance, renewals, and record tracking, built with a 3-Tier Architecture for better organization and maintainability.
